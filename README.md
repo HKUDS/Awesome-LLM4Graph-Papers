@@ -17,6 +17,8 @@ Graphs are an essential data structure utilized to represent relationships in re
 
 ## News
 🤗 We're actively working on this project, and your interest is greatly appreciated! To keep up with the latest developments, please consider hit the **STAR** and **WATCH** for updates.
+* 🔥 We are going to give a [tutorial](https://llm4graph-tutorial.github.io/) on LLM4Graph at TheWebConf (WWW) 2024!
+
 * Our survey paper: [A Survey of Large Language Models for Graphs]() is coming.
 
 ## Overview
