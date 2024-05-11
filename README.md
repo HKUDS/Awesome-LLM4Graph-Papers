@@ -37,13 +37,13 @@ This repository serves as a collection of recent advancements in employing large
 - LLMs-Graphs Intergration
 
 <p align='center'>
-<img src="fig/llm-graph_intergration.png" width=60% alt="LLMs as Prefix" />
+<img src="fig/LLM-graph_intergration.png" width=60% alt="LLMs as Prefix" />
 </p>
 
 -LLMs-Only
 
 <p align='center'>
-<img src="fig/llm_only.png" width=60% alt="LLMs as Prefix" />
+<img src="fig/LLM_only.png" width=60% alt="LLMs as Prefix" />
 </p>
 
 We hope this repository proves valuable to your research or practice in the field of self-supervised learning for recommendation systems. If you find it helpful, please consider citing our work:
