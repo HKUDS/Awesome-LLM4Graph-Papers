@@ -91,7 +91,7 @@ We hope this repository proves valuable to your research or practice in the fiel
 - (WWW'2024) GraphTranslator: Aligning Graph Model to Large Language Model for Open-ended Tasks [[paper](https://arxiv.org/pdf/2402.07197)]
 - (arxiv'2024) UniGraph: Learning a Cross-Domain Graph Foundation Model From Natural Language [[paper](https://arxiv.org/pdf/2402.13630v1)]
 - (NeurIPS'2024) GIMLET:Aunifiedgraph-textmodelforinstruction-based molecule zero-shot learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/129033c7c08be683059559e8d6bfd460-Paper-Conference.pdf)]
-- 
+
 ### Graph-level 
 - (arxiv'2023) GraphLLM: Boosting graph reasoning ability of large language model [[paper](https://arxiv.org/pdf/2310.05845)]
 - (Computers in Biology and Medicine) GIT-Mol: A multi-modal large language model for molecular science with graph, image, and text [[paper](https://arxiv.org/pdf/2308.06911)]
