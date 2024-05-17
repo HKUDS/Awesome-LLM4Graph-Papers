@@ -1,5 +1,5 @@
 # Awesome-LLM4Graph-Papers
-[![](https://img.shields.io/badge/📑-Survey_Paper-blue)](https://github.com/HKUDS/Awesome-LLM4Graph-Papers)
+[![](https://img.shields.io/badge/📑-Survey_Paper-blue)](https://arxiv.org/abs/2405.08011)
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/HKUDS/Awesome-LLM4Graph-Papers)
 ![](https://img.shields.io/github/last-commit/HKUDS/Awesome-LLM4Graph-Papers?color=green) 
 ![](https://img.shields.io/badge/PRs-Welcome-red)
@@ -17,9 +17,9 @@ Graphs are an essential data structure utilized to represent relationships in re
 
 ## News
 🤗 We're actively working on this project, and your interest is greatly appreciated! To keep up with the latest developments, please consider hit the **STAR** and **WATCH** for updates.
-* 🔥 We are going to give a [tutorial](https://llm4graph-tutorial.github.io/) on LLM4Graph at TheWebConf (WWW) 2024!
+* 🔥 We gave a [tutorial](https://llm4graph-tutorial.github.io/) on LLM4Graph at TheWebConf (WWW) 2024!
 
-* Our survey paper: [A Survey of Large Language Models for Graphs]() is coming.
+* Our survey paper: [A Survey of Large Language Models for Graphs](https://arxiv.org/abs/2405.08011) is now ready.
 
 ## Overview
 This repository serves as a collection of recent advancements in employing large language models (LLMs) for modeling graph-structured data. We categorize and summarize the approaches based on four primary paradigms and nine secondary-level categories. The four primary categories include: 1) GNNs as Prefix, 2) LLMs as Prefix, 3) LLMs-Graphs Intergration, and 4) LLMs-Only
