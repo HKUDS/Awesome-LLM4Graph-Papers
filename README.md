@@ -51,10 +51,10 @@ This repository serves as a collection of recent advancements in employing large
 We hope this repository proves valuable to your research or practice in the field of self-supervised learning for recommendation systems. If you find it helpful, please consider citing our work:
 
 ```bibtex
-@article{ren2024llm4graph,
+@article{ren2024survey,
   title={A Survey of Large Language Models for Graphs},
-  author={Ren, Xubin and Tang, Jiabin and Yin, Dawei and Chawla, Nitesh, and Huang, Chao},
-  journal={},
+  author={Ren, Xubin and Tang, Jiabin and Yin, Dawei and Chawla, Nitesh and Huang, Chao},
+  journal={arXiv preprint arXiv:2405.08011},
   year={2024}
 }
 ```
