@@ -59,6 +59,14 @@ We hope this repository proves valuable to your research or practice in the fiel
   journal={arXiv preprint arXiv:2405.08011},
   year={2024}
 }
+
+@inproceedings{huang2024large,
+  title={Large Language Models for Graphs: Progresses and Directions},
+  author={Huang, Chao and Ren, Xubin and Tang, Jiabin and Yin, Dawei and Chawla, Nitesh},
+  booktitle={Companion Proceedings of the ACM on Web Conference 2024},
+  pages={1284--1287},
+  year={2024}
+}
 ```
 
 ## Table of Contents
