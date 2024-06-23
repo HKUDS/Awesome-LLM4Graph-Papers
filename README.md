@@ -103,6 +103,7 @@ We hope this repository proves valuable to your research or practice in the fiel
 - (WWW'2024) GraphTranslator: Aligning Graph Model to Large Language Model for Open-ended Tasks [[paper](https://arxiv.org/pdf/2402.07197)]
 - (arxiv'2024) UniGraph: Learning a Cross-Domain Graph Foundation Model From Natural Language [[paper](https://arxiv.org/pdf/2402.13630v1)]
 - (NeurIPS'2024) GIMLET:Aunifiedgraph-textmodelforinstruction-based molecule zero-shot learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/129033c7c08be683059559e8d6bfd460-Paper-Conference.pdf)]
+- (arxiv'2024) XRec: Large Language Models for Explainable Recommendation [[paper](https://arxiv.org/abs/2406.02377)]
 
 ### Graph-level 
 - (arxiv'2023) GraphLLM: Boosting graph reasoning ability of large language model [[paper](https://arxiv.org/pdf/2310.05845)]
@@ -138,13 +139,15 @@ We hope this repository proves valuable to your research or practice in the fiel
 - (arxiv'2022) Learning on large-scale text-attributed graphs via variational inference [[paper](https://arxiv.org/pdf/2210.14709)]
 
 ### Fusion Training of GNNs and LLMs
-- GreaseLM: Graph reasoning enhanced language models for question answering [[paper](https://arxiv.org/pdf/2201.08860)]
-- Disentangled representation learning with large language models for text-attributed graphs [[paper](https://arxiv.org/pdf/2310.18152v3)]
-- Efficient Tuning and Inference for Large Language Models on Textual Graphs [[paper](https://arxiv.org/pdf/2401.15569)]
+- (ICLR'2022) GreaseLM: Graph reasoning enhanced language models for question answering [[paper](https://arxiv.org/pdf/2201.08860)]
+- (arxiv'2023) Disentangled representation learning with large language models for text-attributed graphs [[paper](https://arxiv.org/pdf/2310.18152v3)]
+- (arxiv'2024) Efficient Tuning and Inference for Large Language Models on Textual Graphs [[paper](https://arxiv.org/pdf/2401.15569)]
 - (WWW'2024) Can GNN be Good Adapter for LLMs? [[paper](https://arxiv.org/pdf/2402.12984v1)]
 
 ### LLMs Agent for Graphs
+- (ACL'2023) Don't Generate, Discriminate: A Proposal for Grounding Language Models to Real-World Environments[[paper](https://arxiv.org/abs/2212.09736)]
 - (arxiv'2022) Graph Agent: Explicit Reasoning Agent for Graphs [[paper](https://arxiv.org/pdf/2310.16421)]
+- (arxiv'2024) Middleware for LLMs: Tools Are Instrumental for Language Agents in Complex Environments [[paper](https://arxiv.org/abs/2402.14672)]
 - (arxiv'2023) Call Me When Necessary: LLMs can Efficiently and Faithfully Reason over Structured Environments [[paper](https://arxiv.org/pdf/2403.08593)]
 - (ICLR'2024) Reasoning on graphs: Faithful and interpretable large language model reasoning [[paper](https://arxiv.org/pdf/2310.01061)]
 
