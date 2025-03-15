@@ -152,7 +152,7 @@ We hope this repository proves valuable to your research or practice in the fiel
 - (arxiv'2023) Call Me When Necessary: LLMs can Efficiently and Faithfully Reason over Structured Environments [[paper](https://arxiv.org/pdf/2403.08593)]
 - (ICLR'2024) Reasoning on graphs: Faithful and interpretable large language model reasoning [[paper](https://arxiv.org/pdf/2310.01061)]
 
-## 🌐 LLMs-Only
+## 🌐 LLMs-Only (* indicates that VLMs are utilized)
 ### Tuning-free
 - (NeurIPS'2024) Can language models solve graph problems in natural language? [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/622afc4edf2824a1b6aaf5afe153fa93-Paper-Conference.pdf)]
 - (arxiv'2023) GPT4Graph: Can large language models understand graph structured data? an empirical evaluation and benchmarking [[paper](https://arxiv.org/pdf/2305.15066)]
@@ -167,6 +167,7 @@ We hope this repository proves valuable to your research or practice in the fiel
 ### Tuning-required
 - (arxiv'2023) Natural language is all a graph needs [[paper](https://arxiv.org/pdf/2308.07134)]
 - (NeurIPS'2024) Walklm:A uniform language model fine-tuning framework for attributed graph embedding [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/2ac879d1865475a7abc8dfc7a9c15c27-Paper-Conference.pdf)]
+- (NeurIPS'2024) *GITA: Graph to Visual and Textual Integration for Vision-Language Graph Reasoning [[paper](https://arxiv.org/pdf/2402.02130)]
 - (arxiv'2024) LLaGA: Large Language and Graph Assistant [[paper](https://arxiv.org/pdf/2402.08170v1)]
 - (arxiv'2024) InstructGraph: Boosting Large Language Models via Graph-centric Instruction Tuning and Preference Alignment [[paper](https://arxiv.org/pdf/2402.08785)]
 - (arxiv'2024) ZeroG: Investigating Cross-dataset Zero-shot Transferability in Graphs [[paper](https://arxiv.org/pdf/2402.11235)]
