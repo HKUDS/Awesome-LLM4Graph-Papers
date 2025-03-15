@@ -94,8 +94,9 @@ We hope this repository proves valuable to your research or practice in the fiel
 
 
 ## Related Resources
-* Large language models on graphs: A comprehensive survey [[paper](https://arxiv.org/pdf/2312.02783)]
-* A Survey of Graph Meets Large Language Model: Progress and Future Directions [[paper](https://arxiv.org/pdf/2311.12399)]
+* [TKDE'2024] Large language models on graphs: A comprehensive survey [[paper](https://arxiv.org/pdf/2312.02783)]
+* [IJCAI'2024] A Survey of Graph Meets Large Language Model: Progress and Future Directions [[paper](https://arxiv.org/pdf/2311.12399)]
+* [NeurIPS'2024] TEG-DB: A Comprehensive Dataset and Benchmark of Textual-Edge Graphs [[paper](https://arxiv.org/pdf/2406.10310)]
 
 ## 🌐 GNNs as Prefix
 ### Node-level Tokenization
