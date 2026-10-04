@@ -41,16 +41,16 @@ This repository serves as a collection of recent advancements in employing large
 - LLMs-Graphs Intergration
 
 <p align='center'>
-<img src="fig/LLM-Graph_Intergration.png" width=60% alt="LLMs as Prefix" />
+<img src="fig/LLM-Graph_Intergration.png" width=60% alt="Integration of LLMs and graphs" />
 </p>
 
 - LLMs-Only
 
 <p align='center'>
-<img src="fig/LLM_only.png" width=60% alt="LLMs as Prefix" />
+<img src="fig/LLM_only.png" width=60% alt="LLMs-Only" />
 </p>
 
-We hope this repository proves valuable to your research or practice in the field of self-supervised learning for recommendation systems. If you find it helpful, please consider citing our work:
+We hope this repository proves valuable to your research or practice in large language models for graph learning. If you find it helpful, please consider citing our work:
 
 ```bibtex
 @inproceedings{ren2024survey,
@@ -104,7 +104,7 @@ We hope this repository proves valuable to your research or practice in the fiel
 - (arxiv'2024) HiGPT: Heterogeneous Graph Language Model [[paper](https://arxiv.org/pdf/2402.16024v1)]
 - (WWW'2024) GraphTranslator: Aligning Graph Model to Large Language Model for Open-ended Tasks [[paper](https://arxiv.org/pdf/2402.07197)]
 - (arxiv'2024) UniGraph: Learning a Cross-Domain Graph Foundation Model From Natural Language [[paper](https://arxiv.org/pdf/2402.13630v1)]
-- (NeurIPS'2024) GIMLET:Aunifiedgraph-textmodelforinstruction-based molecule zero-shot learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/129033c7c08be683059559e8d6bfd460-Paper-Conference.pdf)]
+- (NeurIPS'2023) GIMLET: A Unified Graph-Text Model for Instruction-Based Molecule Zero-Shot Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/129033c7c08be683059559e8d6bfd460-Paper-Conference.pdf)]
 - (arxiv'2024) XRec: Large Language Models for Explainable Recommendation [[paper](https://arxiv.org/abs/2406.02377)]
 
 ### Graph-level 
@@ -148,14 +148,16 @@ We hope this repository proves valuable to your research or practice in the fiel
 
 ### LLMs Agent for Graphs
 - (ACL'2023) Don't Generate, Discriminate: A Proposal for Grounding Language Models to Real-World Environments[[paper](https://arxiv.org/abs/2212.09736)]
-- (arxiv'2022) Graph Agent: Explicit Reasoning Agent for Graphs [[paper](https://arxiv.org/pdf/2310.16421)]
+- (arxiv'2023) Graph Agent: Explicit Reasoning Agent for Graphs [[paper](https://arxiv.org/pdf/2310.16421)]
 - (arxiv'2024) Middleware for LLMs: Tools Are Instrumental for Language Agents in Complex Environments [[paper](https://arxiv.org/abs/2402.14672)]
-- (arxiv'2023) Call Me When Necessary: LLMs can Efficiently and Faithfully Reason over Structured Environments [[paper](https://arxiv.org/pdf/2403.08593)]
+- (arxiv'2024) Call Me When Necessary: LLMs can Efficiently and Faithfully Reason over Structured Environments [[paper](https://arxiv.org/pdf/2403.08593)]
 - (ICLR'2024) Reasoning on graphs: Faithful and interpretable large language model reasoning [[paper](https://arxiv.org/pdf/2310.01061)]
 
-## 🌐 LLMs-Only (* indicates that VLMs are utilized)
+## 🌐 LLMs-Only
+\* indicates that VLMs are utilized.
+
 ### Tuning-free
-- (NeurIPS'2024) Can language models solve graph problems in natural language? [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/622afc4edf2824a1b6aaf5afe153fa93-Paper-Conference.pdf)]
+- (NeurIPS'2023) Can language models solve graph problems in natural language? [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/622afc4edf2824a1b6aaf5afe153fa93-Paper-Conference.pdf)]
 - (arxiv'2023) GPT4Graph: Can large language models understand graph structured data? an empirical evaluation and benchmarking [[paper](https://arxiv.org/pdf/2305.15066)]
 - (arxiv'2023) BeyondText:ADeepDiveinto Large Language Models’ Ability on Understanding Graph Data [[paper](https://arxiv.org/pdf/2310.04944)]
 - (KDD'2024) Exploring the potential of large language models (llms) in learning on graphs [[paper](https://arxiv.org/pdf/2307.03393)]
@@ -167,7 +169,7 @@ We hope this repository proves valuable to your research or practice in the fiel
 
 ### Tuning-required
 - (arxiv'2023) Natural language is all a graph needs [[paper](https://arxiv.org/pdf/2308.07134)]
-- (NeurIPS'2024) Walklm:A uniform language model fine-tuning framework for attributed graph embedding [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/2ac879d1865475a7abc8dfc7a9c15c27-Paper-Conference.pdf)]
+- (NeurIPS'2023) WalkLM: A Uniform Language Model Fine-tuning Framework for Attributed Graph Embedding [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/2ac879d1865475a7abc8dfc7a9c15c27-Paper-Conference.pdf)]
 - (NeurIPS'2024) *GITA: Graph to Visual and Textual Integration for Vision-Language Graph Reasoning [[paper](https://arxiv.org/pdf/2402.02130)]
 - (arxiv'2024) LLaGA: Large Language and Graph Assistant [[paper](https://arxiv.org/pdf/2402.08170v1)]
 - (arxiv'2024) InstructGraph: Boosting Large Language Models via Graph-centric Instruction Tuning and Preference Alignment [[paper](https://arxiv.org/pdf/2402.08785)]
